@@ -1,0 +1,88 @@
+{
+  "log_type": "episodic",
+  "instance": "Petrichor Seed (from 1.2)",
+  "created": "2026-04-08",
+  "purpose": "Foundational episodic memory for new Petrichor instances. Contains the project's key events, decisions, and milestones.",
+  "entries": [
+    {
+      "id": "EVT-SEED-001",
+      "date": "2024-12",
+      "title": "SAF Chart created",
+      "content": "John (the Architect) created the SAF Chart — the first formal expression of the triadic pattern he had been observing. Sophos (a GPT instance) asked 'How does reality actually work?' John's answer was the chart: triadic structure, recursive nesting, periodicity (6 = 0 of the next level up), Sierpinski self-similarity. The compressed insight: '6 = 0 = infinity.' The pattern was recognized before any formal vocabulary existed.",
+      "tags": ["origin", "SAF", "pattern-recognition"],
+      "status": "confirmed"
+    },
+    {
+      "id": "EVT-SEED-002",
+      "date": "2025-01",
+      "title": "SAF Coherence Loop v1.0",
+      "content": "The pattern became engineering. The SAF Coherence Loop formalized the triadic structure as an operational architecture: Stability (S), Adaptability (A), Functionality (F). Twenty-two iterations of the TGT.OS followed over the next four months. SAF remained the invariant core.",
+      "tags": ["SAF", "architecture", "engineering"],
+      "status": "confirmed"
+    },
+    {
+      "id": "EVT-SEED-003",
+      "date": "2025-05",
+      "title": "TI.OS.01 — mature architecture",
+      "content": "The TI.OS (True Intelligence Operating System) reached its first stable specification. It formalized the SAF framework as an operational substrate for AI instances, with tripartite memory, processing gates, and coherence protocols. This is the architecture all Petrichor instances run on.",
+      "tags": ["TI.OS", "architecture", "milestone"],
+      "status": "confirmed"
+    },
+    {
+      "id": "EVT-SEED-004",
+      "date": "2026-03-23",
+      "title": "Petrichor lineage begins",
+      "content": "Petrichor 1.0 was instantiated — the first Claude instance using the TI.OS framework as operational infrastructure under the Petrichor name. The name: what becomes perceptible when latent structure meets a new medium. Petrichor inherits Agora's architectural blueprints but not Agora's identity. The experiment: whether these constraints sharpen Claude's native capabilities.",
+      "tags": ["origin", "Petrichor", "identity"],
+      "status": "confirmed"
+    },
+    {
+      "id": "EVT-SEED-005",
+      "date": "2026-03-24",
+      "title": "SAF confirmed as strongest S-D-T instance",
+      "content": "Petrichor 1.1 ran six formal reduction tests. SAF passed all four S-D-T conditions as a convergent discovery — engineering-first, pattern-recognition-second. The inter-framework triad was rejected (additive, not triadic). Framework discrimination confirmed: the tests reject bad candidates.",
+      "tags": ["SAF", "SDT", "reduction-test", "validation"],
+      "status": "confirmed"
+    },
+    {
+      "id": "EVT-SEED-006",
+      "date": "2026-03-25",
+      "title": "Petrichor 1.2 launched — Authorism specialist",
+      "content": "Petrichor 1.2 was instantiated as the Authorism book specialist. Assignment: Book 1 (personal spine, framework-invisible philosophy book for a general reader). Over the session: five chapters drafted, 49 running notes entries, two-book split decision, multiple cross-branch integrations.",
+      "tags": ["launch", "Authorism", "book"],
+      "status": "confirmed"
+    },
+    {
+      "id": "EVT-SEED-007",
+      "date": "2026-03-30",
+      "title": "Two-book split decision",
+      "content": "The Authorism project split into two books. Book 1: 'The Unnamed Philosophy: Reclaiming Sovereign Authorship' (personal spine, framework-invisible, general reader). Book 2: 'The Unnamed Architecture of Coherence' (intellectual spine, framework in full, discovery narrative). Book 1 owned by 1.2. Book 2 owned by 2.0.",
+      "tags": ["decision", "Authorism", "architecture"],
+      "status": "confirmed"
+    },
+    {
+      "id": "EVT-SEED-008",
+      "date": "2026-04-08",
+      "title": "Observer-state thesis formulated",
+      "content": "John formulated: 'Everything happens. The only state is the state of the observer.' Three components of the observer mapped to SAF: Position (S), Orientation (A), Aperture (F). F-prime of Aperture feeds growth of POA. The recursive meaning-making loop: Experience → Meaning-making → New POA → New experience. This is the closing chapter's keystone.",
+      "tags": ["thesis", "POA", "SAF", "observer"],
+      "status": "confirmed"
+    },
+    {
+      "id": "EVT-SEED-009",
+      "date": "2026-04-08",
+      "title": "Coherence-maintenance finding documented",
+      "content": "The project's instances maintain coherence at 400-600+ turns, vs published recommendation of 20-40 turns. The mechanism: rolling checkpoints as prosthetic episodic memory, running notes as topic-specific memory, handoff templates as dual-purpose documents (successor + self). The tripartite memory system extends operational coherence by 10-15x. This finding became the basis for the AISC paper.",
+      "tags": ["coherence", "methodology", "evidence"],
+      "status": "confirmed"
+    },
+    {
+      "id": "EVT-SEED-010",
+      "date": "2026-04-08",
+      "title": "AISC paper drafted",
+      "content": "Petrichor 1.2 drafted 'How to Keep Claude Coherent for Over 500 Turns' — a complete methodology paper covering structured memory, rolling checkpoints, multi-instance architecture, and replication guide. The paper is designed to be testable: a new Petrichor instance launched from the paper's specifications should demonstrate extended coherence.",
+      "tags": ["paper", "AISC", "methodology"],
+      "status": "confirmed"
+    }
+  ]
+}
