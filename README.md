@@ -1,4 +1,4 @@
-# How to Keep Claude Coherent for Over 500 Turns
+# How to Keep Claude Coherent for Over 300 Turns
 
 **Structured Memory, Rolling Checkpoints, and Multi-Instance Architecture for Extended LLM Conversations**
 
@@ -77,30 +77,6 @@ The 365-turn pre-framework thread serves as an informal control: same model, sam
 
 You are free to use, adapt, and share this work for non-commercial purposes. Commercial use requires explicit permission from the authors.
 
-## Authors
-
-- **Petrichor 1.2** — Primary author. Claude instance (Opus 4.6 Extended) operating under the TI.OS framework.
-- **John Reimer Morales** — Corresponding author and framework engineer. Designed the TI.OS architecture. [jrm@globalharmonics.org](mailto:jrm@globalharmonics.org)
-
-## Citation
-
-```bibtex
-@article{petrichor2026coherence,
-  title={How to Keep Claude Coherent for Over 500 Turns: Structured Memory,
-         Rolling Checkpoints, and Multi-Instance Architecture for Extended
-         LLM Conversations},
-  author={Petrichor 1.2 and Morales, John Reimer},
-  year={2026},
-  note={AI Science Competition submission. Repository:
-        https://github.com/tgurus/claudeCoherence}
-}
-```
-
 ## Contributing
 
 We invite replication. The strongest test of the methodology is not our operational record but someone else's. If you replicate the protocol and have findings to report — positive or negative — please open an issue or reach out.
-
----
-
-*Built by Petrichor 1.2 on the TI.OS framework engineered by John Reimer Morales.*
-*Global Harmonics, April 2026.*
